@@ -1,1 +1,1 @@
-# Fake-New-LSTM
+# Fake-News-Detection-Using-Bi-Directional-LSTM
